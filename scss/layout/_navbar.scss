@@ -11,16 +11,17 @@
     margin-top: 1rem;
     li.nav-item {
       a.nav-link {
-        color: $light;
+        color: $dark
+        ;
         &:hover {
           color: $white;
         }
         &:active,
         &:focus {
-          color: $primary;
+          color: $dark;
         }
         &.active {
-          color: $light;
+          color: $white;
         }
       }
     }
@@ -43,8 +44,8 @@
       margin-top: 0;
     }
     .navbar-nav > li.nav-item > a.nav-link.active {
-      color: $primary;
-      background: $yellow;
+      color: $light;
+      background: $white;
       &:active,
       &:focus,
       &:hover {
