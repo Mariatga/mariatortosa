@@ -1,0 +1,13 @@
+.about-avatar {
+	width: 13rem;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+@include media-breakpoint-up(lg) {
+  .about-avatar {
+	width: 18rem;
+	margin-left: 4rem;
+  }
+}

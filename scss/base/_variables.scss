@@ -1,0 +1,61 @@
+// Variables
+
+// Set custom colors
+$light-yellow: #28373b !default;
+$blue-dark: #fcd15d !default;
+$koala-blue: #0366d6 !default;
+$koala-indigo: #644ba1 !default;
+$koala-purple: #7662a6 !default;
+$koala-pink: #f06faa !default;
+$koala-red: #d25d64 !default;
+$koala-orange: #ea8434 !default;
+$koala-yellow: #f3b50f !default;
+$koala-green: #00aa5a !default;
+$koala-gray: #e3edf4 !default; 
+$koala-gray-dark: #4e595e !default;
+$koala-success: #200aa5 !default;
+$koala-info: #fcd15d !default;
+$koala-warning: #f3b50f !default;
+$koala-danger: #d25d64 !default;
+$koala-light: #dbe8f1 !default;
+$koala-dark: #4e595e !default;
+
+// Override Bootstrap primary and secondary colors
+$primary: $light-yellow !default;
+$secondary: $blue-dark !default;
+
+// Override Bootstrap website custom colors
+$blue: $koala-blue !default;
+$indigo: $koala-indigo !default;
+$purple: $koala-purple !default;
+$pink: $koala-pink !default;
+$red: $koala-red !default;
+$orange: $koala-orange !default;
+$yellow: $koala-yellow !default;
+$green: $koala-green !default;
+$gray: $koala-gray !default; 
+$gray-dark: $koala-gray-dark !default;
+$success: $koala-success !default;
+$info: $koala-info !default;
+$warning: $koala-warning !default;
+$danger: $koala-danger !default;
+$light: $koala-light !default;
+$dark: $koala-dark !default;
+
+// Override Bootstrap font variables
+$font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Noto Color Emoji' !default;
+$headings-font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Noto Color Emoji' !default;
+$headings-font-weight: 700 !default;
+
+// Override Bootstrap border variables
+$border-width: 0.125rem !default;
+$border-radius: 0.5rem !default;
+$border-radius-lg: 0.75rem !default;
+$border-radius-sm: 0.25rem !default;
+
+// Override Bootstrap input/button variables
+$input-btn-border-width: $border-width !default;
+
+// Override Bootstrap modal variables
+$modal-inner-padding: 4rem 1rem !default;
+$modal-content-border-width: 0 !default;

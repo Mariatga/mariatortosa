@@ -1,0 +1,19 @@
+// Custom divider
+.divider-custom {
+  margin: 1.25rem 0 2.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.divider-custom-image {
+  width: 250px;
+}
+
+
+@include media-breakpoint-up(lg){
+  .divider-custom-image {
+  width: 350px;
+  }
+}
