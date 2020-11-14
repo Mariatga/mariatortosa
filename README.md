@@ -1,10 +1,10 @@
 # [Koala Corp Website]
 
-[KoalaCorpWeb](https://github.com/KoalaCorp/KoalaCorpWeb/) is the website for Koala Corp, an awesome company (a one-person team for now) that wants to help and advise whoever in needs in the developement area.
+[MariaTortosaPortfolio](https://github.com/Mariatga/mariatortosa/) is the website for Maria Tortosa, an awesome portfolio to show her works and hobbies.
 
 ## Preview
 
-**[View Live Preview](https://koalacorp.github.io/KoalaCorpWeb/)**
+**[View Live Preview](https://mariatga.github.io/mariatortosa/)**
 
 ## Usage
 
@@ -28,12 +28,12 @@ You must have npm and Gulp installed globally in order to use these features.
 
 ## About
 
-Koala Corp was created by and is maintained by **[Diego Pascual López](https://github.com/ewokcillo)**, Owner of [Koala Corp](http://blackrockdigital.io/) and **Maria Tortosa**, helping with the design.
+Maria Tortosa's portfolio was created by and is maintained by **[Maria Tortosa](https://github.com/Mariatga)**.
 
-* https://github.com/ewokcillo
+* https://github.com/Mariatga
 
 The design is based on the [Start Bootstrap - freelancer](https://startbootstrap.com/template-overviews/freelancer/) theme, a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [David Miller](http://davidmiller.io).
 
 ## Copyright and License
 
-Copyright 2020 Koala Corp. Code released under the [MIT](https://github.com/KoalaCorp/KoalaCorpWeb/blob/maria-dev/LICENSE) license.
+Copyright 2020 Maria Tortosa. Code released under the [MIT](https://github.com/KoalaCorp/KoalaCorpWeb/blob/maria-dev/LICENSE) license.
